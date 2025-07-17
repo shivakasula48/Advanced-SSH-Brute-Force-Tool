@@ -1,0 +1,14 @@
+2025-07-17 12:22:46,940 - INFO - Connected (version 2.0, client OpenSSH_10.0p2)
+2025-07-17 12:22:46,946 - INFO - Connected (version 2.0, client OpenSSH_10.0p2)
+2025-07-17 12:22:49,043 - INFO - Authentication (password) failed.
+2025-07-17 12:22:49,044 - WARNING - Invalid: admin:password123
+2025-07-17 12:22:49,051 - INFO - Authentication (password) failed.
+2025-07-17 12:22:49,052 - WARNING - Invalid: admin:admin
+2025-07-17 12:22:49,057 - INFO - Connected (version 2.0, client OpenSSH_10.0p2)
+2025-07-17 12:22:49,064 - INFO - Connected (version 2.0, client OpenSSH_10.0p2)
+2025-07-17 12:22:51,159 - INFO - Authentication (password) failed.
+2025-07-17 12:22:51,159 - INFO - Authentication (password) failed.
+2025-07-17 12:22:51,159 - WARNING - Invalid: admin:password
+2025-07-17 12:22:51,160 - WARNING - Invalid: admin:test123
+2025-07-17 12:22:51,160 - INFO - Skipping admin after 3 failed attempts.
+2025-07-17 12:22:51,160 - INFO - Skipping admin after 3 failed attempts.
