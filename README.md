@@ -47,7 +47,7 @@ python ssh_gui.py
 ```
 ## 📂 Folder Structure
 
-<pre> ## 📂 Folder Structure ``` .
+<pre>
   ├── advance_ssh_brute.py   # CLI Brute force logic 
   ├── ssh_gui.py             # GUI wrapper 
   ├── userlist.txt           # List of usernames 
