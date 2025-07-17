@@ -40,3 +40,19 @@ pip install paramiko colorama
 ```bash
 python advance_ssh_brute.py <target-ip> -U userlist.txt -P passlist.txt --threads 4 --delay 1 --max-user-retries 5 --output results.txt
 ```
+### 🖱️ GUI Mode:
+
+```bash
+python ssh_gui.py
+```
+## 📂 Folder Structure
+
+.
+├── advance_ssh_brute.py # CLI Brute force logic
+├── ssh_gui.py # GUI wrapper
+├── userlist.txt # List of usernames
+├── passlist.txt # List of passwords
+├── results.txt # Output file
+├── failed_attempts.txt # Failed credentials
+├── requirements.txt # Python dependencies
+└── README.md # You're here!
