@@ -48,11 +48,11 @@ python ssh_gui.py
 ## 📂 Folder Structure
 
 .
-├── advance_ssh_brute.py # CLI Brute force logic
-├── ssh_gui.py # GUI wrapper
-├── userlist.txt # List of usernames
-├── passlist.txt # List of passwords
-├── results.txt # Output file
-├── failed_attempts.txt # Failed credentials
-├── requirements.txt # Python dependencies
-└── README.md # You're here!
+├── advance_ssh_brute.py        # CLI Brute force logic
+├── ssh_gui.py                  # GUI wrapper
+├── userlist.txt                # List of usernames
+├── passlist.txt                # List of passwords
+├── results.txt                 # Output file
+├── failed_attempts.txt         # Failed credentials
+├── requirements.txt            # Python dependencies
+└── README.md                   # You're here!
