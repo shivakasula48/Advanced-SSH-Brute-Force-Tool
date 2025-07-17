@@ -85,3 +85,12 @@ The developer is not responsible for any misuse.
 ## 🙏 Thank You
 
 If you like this project, please ⭐ the repo!
+
+
+
+# License
+
+This project is open-source and free to use by anyone for personal or educational purposes.  
+Feel free to modify, distribute, and use the code as long as proper credit is given to the original author, **Kasula Shiva**.
+
+
