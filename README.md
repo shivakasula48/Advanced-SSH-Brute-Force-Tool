@@ -56,3 +56,32 @@ python ssh_gui.py
   ├── failed_attempts.txt    # Failed credentials 
   ├── requirements.txt       # Python dependencies 
   └── README.md              # You're here! ``` </pre>
+
+
+## ✅ Output Example
+
+```text
+[+] Found: testuser@192.168.1.10:admin123
+[-] Invalid: root:root123
+[!] SSH Retry (1) for admin:password123
+```
+Results saved to `results.txt` and `brute_log_TIMESTAMP.txt`
+
+
+## 📚 Applications
+
+- Educational penetration testing  
+- Security awareness training  
+- Brute-force defense evaluation  
+- Custom testing of SSH login resilience  
+
+## ⚠️ Disclaimer
+
+This tool is for educational and authorized testing purposes only.  
+**Do not use it against systems without explicit written permission.**  
+The developer is not responsible for any misuse.
+
+
+## 🙏 Thank You
+
+If you like this project, please ⭐ the repo!
