@@ -20,7 +20,7 @@ A powerful and customizable Python-based SSH brute-force tool with an intuitive 
 > Simple and clean interface powered by `Tkinter`  
 > Start and stop buttons, file pickers, and real-time output view.
 
-!<img width="1267" height="1001" alt="Image" src="https://github.com/user-attachments/assets/e0b17b52-7dcb-4b80-a10e-84e63eb6fa79" />
+<img width="1267" height="1001" alt="Image" src="https://github.com/user-attachments/assets/e0b17b52-7dcb-4b80-a10e-84e63eb6fa79" />
 
 ---
 
